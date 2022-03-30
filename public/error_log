@@ -1,0 +1,2 @@
+[30-Mar-2022 14:31:15 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.28. in /home4/igpwxwmy/public_html/tpe-cabtdesigns-com/vendor/composer/platform_check.php on line 24
+[30-Mar-2022 14:42:04 America/Boise] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.28. in /home4/igpwxwmy/public_html/tpe-cabtdesigns-com/vendor/composer/platform_check.php on line 24
